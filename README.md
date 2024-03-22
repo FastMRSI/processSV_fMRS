@@ -18,7 +18,7 @@ Linux Installation:
 
 This was tested on Ubuntu installations on Windows 10/11 as well as standalone Ubuntu 22.04 LTS  but it should work on other Linux distributions (e.g. Centos, etc).
 If files needed and Matlab Runtime are installed within a user’s home directory, no root/superuser permissions should be required. Local installation packages (which include the Matlab Runtime) are located at:
-https://pitt-my.sharepoint.com/personal/cvsst5_pitt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcvsst5%5Fpitt%5Fedu%2FDocuments%2FShared%20with%20Everyone%2FprocessSV%5FfMRS&ga=1
+https://pitt-my.sharepoint.com/:f:/g/personal/cvsst5_pitt_edu/Em1Td8tCUxZKh_hSnvnqNHwB9XrIhI3IsJEdKSUB0JeNNw?e=qDacnF
 
 -Open a terminal and go (cd) to the directory which has the installation package
 > ./SV_fMRS_LocalInstaller.install &
